@@ -16,7 +16,7 @@ AddEventHandler('pv:setCruiseSpeed', function()
 			local cruiseKm = math.floor(cruise * 3.6 + 0.5)
 			local cruiseMph = math.floor(cruise * 2.23694 + 0.5)
 			
-			NotificationMessage("CruiseControl: ~g~ TÆNDT~w~ - ~b~ " .. cruiseKm .." km/t")
+			NotificationMessage("CruiseControl: ~g~ speed~w~ - ~b~ " .. cruiseKm .." kmph.")
 			
 			Citizen.CreateThread(function()
 				while cruise > 0 and GetPedInVehicleSeat(GetVehiclePedIsIn(GetPlayerPed(-1), false), -1) == GetPlayerPed(-1) do
@@ -25,12 +25,12 @@ AddEventHandler('pv:setCruiseSpeed', function()
 						SetVehicleForwardSpeed(GetVehiclePedIsIn(GetPlayerPed(-1), false), cruise)
 					else
 						cruise = 0
-						NotificationMessage("CruiseControl: ~r~ SLUKKET")
+						NotificationMessage("CruiseControl: ~r~ has stopped.")
 						break
 					end
 					if IsControlPressed(1, 8) then
 						cruise = 0
-						NotificationMessage("CruiseControl: ~r~ SLUKKET")
+						NotificationMessage("CruiseControl: ~r~ has stopped.")
 					end
 					if IsControlPressed(1, 32) then
 						cruise = 0
@@ -38,7 +38,7 @@ AddEventHandler('pv:setCruiseSpeed', function()
 					end
 					if cruise > 44 then
 						cruise = 0
-						NotificationMessage("CruiseControl: Kan ikke sættes så høj!")
+						NotificationMessage("CruiseControl: cannot go this fast!")
 						break
 					end
 					Wait(200)
@@ -47,11 +47,11 @@ AddEventHandler('pv:setCruiseSpeed', function()
 			end)
 		else
 			cruise = 0
-			NotificationMessage("CruiseControl: ~r~SLUKKET")
+			NotificationMessage("CruiseControl: ~r~has stopped.")
 		end
 	else
 		if cruise > 0 then
-			NotificationMessage("CruiseControl: ~r~SLUKKET")
+			NotificationMessage("CruiseControl: ~r~has stopped.")
 		end
 		cruise = 0
 	end

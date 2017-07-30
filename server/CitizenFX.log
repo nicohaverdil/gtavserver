@@ -1236,3 +1236,314 @@
 [       250] Started resource cruisecontrol
 [       312] Started resource fivem-map-skater
 [       312] Started map fivem-map-skater
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        62] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        78]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        78]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        78] Found new resource cruisecontrol in D:/Git\gtavservergit/resources//cruisecontrol
+[        93] Found new resource custompeds in D:/Git\gtavservergit/resources//custompeds
+[        93] Found new resource customvehicles in D:/Git\gtavservergit/resources//customvehicles
+[        93] Found new resource fivem in D:/Git\gtavservergit/resources//fivem
+[       109] Found new resource fivem-awesome1501 in D:/Git\gtavservergit/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in D:/Git\gtavservergit/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in D:/Git\gtavservergit/resources//fivem-map-skater
+[       109] Found new resource race in D:/Git\gtavservergit/resources//[gamemodes]/race
+[       125] Found new resource race-test in D:/Git\gtavservergit/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in D:/Git\gtavservergit/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in D:/Git\gtavservergit/resources//[gameplay]/irc
+[       140] Found new resource obituary in D:/Git\gtavservergit/resources//[gameplay]/obituary
+[       140] Found new resource obituary-deaths in D:/Git\gtavservergit/resources//[gameplay]/obituary-deaths
+[       140] Found new resource mapmanager in D:/Git\gtavservergit/resources//[managers]/mapmanager
+[       140] Found new resource baseevents in D:/Git\gtavservergit/resources//[system]/baseevents
+[       156] Found new resource chat in D:/Git\gtavservergit/resources//[system]/chat
+[       156] Found new resource hardcap in D:/Git\gtavservergit/resources//[system]/hardcap
+[       156] Found new resource rconlog in D:/Git\gtavservergit/resources//[system]/rconlog
+[       156] Found new resource scoreboard in D:/Git\gtavservergit/resources//[system]/scoreboard
+[       172] Found new resource sessionmanager in D:/Git\gtavservergit/resources//[system]/sessionmanager
+[       172] Found new resource spawnmanager in D:/Git\gtavservergit/resources//[system]/spawnmanager
+[       172] Found new resource betaguns in D:/Git\gtavservergit/resources//[test]/betaguns
+[       187] Found new resource gameInit in D:/Git\gtavservergit/resources//[test]/gameInit
+[       187] Found new resource keks in D:/Git\gtavservergit/resources//[test]/keks
+[       203] Started resource sessionmanager
+[       218] Started resource mapmanager
+[       218] Started resource chat
+[       218] Started resource spawnmanager
+[       234] Started resource fivem
+[       234] Started gametype Freeroam
+[       234] Started resource hardcap
+[       234] Started resource rconlog
+[       250] Started resource cruisecontrol
+[       297] Started resource fivem-map-skater
+[       297] Started map fivem-map-skater
+[     52968] Connecting: Deezguns
+[    236484] Deezguns: ha
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        15] Hello!
+[        62] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        78]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        78]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        78] Found new resource cruisecontrol in D:/Git\gtavservergit/resources//cruisecontrol
+[        78] Found new resource custompeds in D:/Git\gtavservergit/resources//custompeds
+[        93] Found new resource customvehicles in D:/Git\gtavservergit/resources//customvehicles
+[        93] Found new resource fivem in D:/Git\gtavservergit/resources//fivem
+[        93] Found new resource fivem-awesome1501 in D:/Git\gtavservergit/resources//fivem-awesome1501
+[        93] Found new resource fivem-map-hipster in D:/Git\gtavservergit/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in D:/Git\gtavservergit/resources//fivem-map-skater
+[       109] Found new resource race in D:/Git\gtavservergit/resources//[gamemodes]/race
+[       109] Found new resource race-test in D:/Git\gtavservergit/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in D:/Git\gtavservergit/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in D:/Git\gtavservergit/resources//[gameplay]/irc
+[       125] Found new resource obituary in D:/Git\gtavservergit/resources//[gameplay]/obituary
+[       125] Found new resource obituary-deaths in D:/Git\gtavservergit/resources//[gameplay]/obituary-deaths
+[       140] Found new resource mapmanager in D:/Git\gtavservergit/resources//[managers]/mapmanager
+[       140] Found new resource baseevents in D:/Git\gtavservergit/resources//[system]/baseevents
+[       140] Found new resource chat in D:/Git\gtavservergit/resources//[system]/chat
+[       140] Found new resource hardcap in D:/Git\gtavservergit/resources//[system]/hardcap
+[       156] Found new resource rconlog in D:/Git\gtavservergit/resources//[system]/rconlog
+[       156] Found new resource scoreboard in D:/Git\gtavservergit/resources//[system]/scoreboard
+[       156] Found new resource sessionmanager in D:/Git\gtavservergit/resources//[system]/sessionmanager
+[       171] Found new resource spawnmanager in D:/Git\gtavservergit/resources//[system]/spawnmanager
+[       171] Found new resource betaguns in D:/Git\gtavservergit/resources//[test]/betaguns
+[       171] Found new resource gameInit in D:/Git\gtavservergit/resources//[test]/gameInit
+[       171] Found new resource keks in D:/Git\gtavservergit/resources//[test]/keks
+[       203] Started resource sessionmanager
+[       218] Started resource mapmanager
+[       453] Started resource chat
+[       484] Started resource spawnmanager
+[       484] Started resource fivem
+[       484] Started gametype Freeroam
+[       500] Started resource hardcap
+[       515] Started resource rconlog
+[       515] Started resource cruisecontrol
+[       593] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       609] Sending heartbeat to live-internal.fivem.net:30110
+[       656] Started resource fivem-map-skater
+[       656] Started map fivem-map-skater
+[    112359] Initializing Mono
+[    112359] Initializing Mono completed
+[    112375] Hello!
+[    112421] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    112421]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    112437]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[    112437] Found new resource cruisecontrol in D:/Git\gtavservergit/resources//cruisecontrol
+[    112437] Found new resource custompeds in D:/Git\gtavservergit/resources//custompeds
+[    112453] Found new resource customvehicles in D:/Git\gtavservergit/resources//customvehicles
+[    112453] Found new resource fivem in D:/Git\gtavservergit/resources//fivem
+[    112453] Found new resource fivem-awesome1501 in D:/Git\gtavservergit/resources//fivem-awesome1501
+[    112468] Found new resource fivem-map-hipster in D:/Git\gtavservergit/resources//fivem-map-hipster
+[    112468] Found new resource fivem-map-skater in D:/Git\gtavservergit/resources//fivem-map-skater
+[    112468] Found new resource race in D:/Git\gtavservergit/resources//[gamemodes]/race
+[    112484] Found new resource race-test in D:/Git\gtavservergit/resources//[gamemodes]/race-test
+[    112484] Found new resource channelfeed in D:/Git\gtavservergit/resources//[gameplay]/channelfeed
+[    112484] Found new resource irc in D:/Git\gtavservergit/resources//[gameplay]/irc
+[    112500] Found new resource obituary in D:/Git\gtavservergit/resources//[gameplay]/obituary
+[    112500] Found new resource obituary-deaths in D:/Git\gtavservergit/resources//[gameplay]/obituary-deaths
+[    112500] Found new resource mapmanager in D:/Git\gtavservergit/resources//[managers]/mapmanager
+[    112500] Found new resource baseevents in D:/Git\gtavservergit/resources//[system]/baseevents
+[    112515] Found new resource chat in D:/Git\gtavservergit/resources//[system]/chat
+[    112515] Found new resource hardcap in D:/Git\gtavservergit/resources//[system]/hardcap
+[    112515] Found new resource rconlog in D:/Git\gtavservergit/resources//[system]/rconlog
+[    112531] Found new resource scoreboard in D:/Git\gtavservergit/resources//[system]/scoreboard
+[    112531] Found new resource sessionmanager in D:/Git\gtavservergit/resources//[system]/sessionmanager
+[    112531] Found new resource spawnmanager in D:/Git\gtavservergit/resources//[system]/spawnmanager
+[    112546] Found new resource betaguns in D:/Git\gtavservergit/resources//[test]/betaguns
+[    112546] Found new resource gameInit in D:/Git\gtavservergit/resources//[test]/gameInit
+[    112546] Found new resource keks in D:/Git\gtavservergit/resources//[test]/keks
+[    112562] Started resource sessionmanager
+[    112578] Started resource mapmanager
+[    112578] Started resource chat
+[    112593] Started resource spawnmanager
+[    112593] Started resource fivem
+[    112593] Started gametype Freeroam
+[    112593] Started resource hardcap
+[    112609] Started resource rconlog
+[    112609] Started resource cruisecontrol
+[    112671] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    112671] Sending heartbeat to live-internal.fivem.net:30110
+[    112671] Started resource fivem-map-hipster
+[    112687] Started map fivem-map-hipster
+[    144140] Initializing Mono
+[    144156] Initializing Mono completed
+[    144156] Hello!
+[    144203] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    144218]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    144218]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[    144218] Found new resource cruisecontrol in D:/Git\gtavservergit/resources//cruisecontrol
+[    144218] Found new resource custompeds in D:/Git\gtavservergit/resources//custompeds
+[    144234] Found new resource customvehicles in D:/Git\gtavservergit/resources//customvehicles
+[    144234] Found new resource fivem in D:/Git\gtavservergit/resources//fivem
+[    144250] Found new resource fivem-awesome1501 in D:/Git\gtavservergit/resources//fivem-awesome1501
+[    144250] Found new resource fivem-map-hipster in D:/Git\gtavservergit/resources//fivem-map-hipster
+[    144250] Found new resource fivem-map-skater in D:/Git\gtavservergit/resources//fivem-map-skater
+[    144265] Found new resource race in D:/Git\gtavservergit/resources//[gamemodes]/race
+[    144265] Found new resource race-test in D:/Git\gtavservergit/resources//[gamemodes]/race-test
+[    144265] Found new resource channelfeed in D:/Git\gtavservergit/resources//[gameplay]/channelfeed
+[    144265] Found new resource irc in D:/Git\gtavservergit/resources//[gameplay]/irc
+[    144281] Found new resource obituary in D:/Git\gtavservergit/resources//[gameplay]/obituary
+[    144281] Found new resource obituary-deaths in D:/Git\gtavservergit/resources//[gameplay]/obituary-deaths
+[    144281] Found new resource mapmanager in D:/Git\gtavservergit/resources//[managers]/mapmanager
+[    144296] Found new resource baseevents in D:/Git\gtavservergit/resources//[system]/baseevents
+[    144296] Found new resource chat in D:/Git\gtavservergit/resources//[system]/chat
+[    144296] Found new resource hardcap in D:/Git\gtavservergit/resources//[system]/hardcap
+[    144312] Found new resource rconlog in D:/Git\gtavservergit/resources//[system]/rconlog
+[    144312] Found new resource scoreboard in D:/Git\gtavservergit/resources//[system]/scoreboard
+[    144312] Found new resource sessionmanager in D:/Git\gtavservergit/resources//[system]/sessionmanager
+[    144312] Found new resource spawnmanager in D:/Git\gtavservergit/resources//[system]/spawnmanager
+[    144328] Found new resource betaguns in D:/Git\gtavservergit/resources//[test]/betaguns
+[    144328] Found new resource gameInit in D:/Git\gtavservergit/resources//[test]/gameInit
+[    144328] Found new resource keks in D:/Git\gtavservergit/resources//[test]/keks
+[    144359] Started resource sessionmanager
+[    144359] Started resource mapmanager
+[    144375] Started resource chat
+[    144375] Started resource spawnmanager
+[    144375] Started resource fivem
+[    144375] Started gametype Freeroam
+[    144390] Started resource hardcap
+[    144390] Started resource rconlog
+[    144390] Started resource cruisecontrol
+[    144453] Started resource fivem-map-skater
+[    144453] Started map fivem-map-skater
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        16] Hello!
+[        62] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        62]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        62]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        78] Found new resource cruisecontrol in D:/Git\gtavservergit/resources//cruisecontrol
+[        78] Found new resource custompeds in D:/Git\gtavservergit/resources//custompeds
+[        78] Found new resource customvehicles in D:/Git\gtavservergit/resources//customvehicles
+[        94] Found new resource fivem in D:/Git\gtavservergit/resources//fivem
+[        94] Found new resource fivem-awesome1501 in D:/Git\gtavservergit/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in D:/Git\gtavservergit/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in D:/Git\gtavservergit/resources//fivem-map-skater
+[       109] Found new resource race in D:/Git\gtavservergit/resources//[gamemodes]/race
+[       109] Found new resource race-test in D:/Git\gtavservergit/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in D:/Git\gtavservergit/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in D:/Git\gtavservergit/resources//[gameplay]/irc
+[       125] Found new resource obituary in D:/Git\gtavservergit/resources//[gameplay]/obituary
+[       125] Found new resource obituary-deaths in D:/Git\gtavservergit/resources//[gameplay]/obituary-deaths
+[       141] Found new resource mapmanager in D:/Git\gtavservergit/resources//[managers]/mapmanager
+[       141] Found new resource baseevents in D:/Git\gtavservergit/resources//[system]/baseevents
+[       141] Found new resource chat in D:/Git\gtavservergit/resources//[system]/chat
+[       156] Found new resource hardcap in D:/Git\gtavservergit/resources//[system]/hardcap
+[       156] Found new resource rconlog in D:/Git\gtavservergit/resources//[system]/rconlog
+[       156] Found new resource scoreboard in D:/Git\gtavservergit/resources//[system]/scoreboard
+[       156] Found new resource sessionmanager in D:/Git\gtavservergit/resources//[system]/sessionmanager
+[       172] Found new resource spawnmanager in D:/Git\gtavservergit/resources//[system]/spawnmanager
+[       172] Found new resource betaguns in D:/Git\gtavservergit/resources//[test]/betaguns
+[       172] Found new resource gameInit in D:/Git\gtavservergit/resources//[test]/gameInit
+[       172] Found new resource keks in D:/Git\gtavservergit/resources//[test]/keks
+[       203] Started resource sessionmanager
+[       203] Started resource mapmanager
+[       219] Started resource chat
+[       219] Started resource spawnmanager
+[       219] Started resource fivem
+[       219] Started gametype Freeroam
+[       234] Started resource hardcap
+[       234] Started resource rconlog
+[       234] Started resource cruisecontrol
+[       312] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       312] Sending heartbeat to live-internal.fivem.net:30110
+[       328] Started resource fivem-map-hipster
+[       328] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        62] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        62]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        62]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        78] Found new resource cruisecontrol in D:/Git\gtavservergit/resources//cruisecontrol
+[        78] Found new resource custompeds in D:/Git\gtavservergit/resources//custompeds
+[        94] Found new resource customvehicles in D:/Git\gtavservergit/resources//customvehicles
+[        94] Found new resource fivem in D:/Git\gtavservergit/resources//fivem
+[        94] Found new resource fivem-awesome1501 in D:/Git\gtavservergit/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in D:/Git\gtavservergit/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in D:/Git\gtavservergit/resources//fivem-map-skater
+[       109] Found new resource race in D:/Git\gtavservergit/resources//[gamemodes]/race
+[       109] Found new resource race-test in D:/Git\gtavservergit/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in D:/Git\gtavservergit/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in D:/Git\gtavservergit/resources//[gameplay]/irc
+[       125] Found new resource obituary in D:/Git\gtavservergit/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in D:/Git\gtavservergit/resources//[gameplay]/obituary-deaths
+[       141] Found new resource mapmanager in D:/Git\gtavservergit/resources//[managers]/mapmanager
+[       141] Found new resource baseevents in D:/Git\gtavservergit/resources//[system]/baseevents
+[       141] Found new resource chat in D:/Git\gtavservergit/resources//[system]/chat
+[       156] Found new resource hardcap in D:/Git\gtavservergit/resources//[system]/hardcap
+[       156] Found new resource rconlog in D:/Git\gtavservergit/resources//[system]/rconlog
+[       156] Found new resource scoreboard in D:/Git\gtavservergit/resources//[system]/scoreboard
+[       172] Found new resource sessionmanager in D:/Git\gtavservergit/resources//[system]/sessionmanager
+[       172] Found new resource spawnmanager in D:/Git\gtavservergit/resources//[system]/spawnmanager
+[       172] Found new resource betaguns in D:/Git\gtavservergit/resources//[test]/betaguns
+[       172] Found new resource gameInit in D:/Git\gtavservergit/resources//[test]/gameInit
+[       187] Found new resource keks in D:/Git\gtavservergit/resources//[test]/keks
+[       203] Started resource sessionmanager
+[       203] Started resource mapmanager
+[       219] Started resource chat
+[       219] Started resource spawnmanager
+[       219] Started resource fivem
+[       234] Started gametype Freeroam
+[       234] Started resource hardcap
+[       234] Started resource rconlog
+[       250] Started resource cruisecontrol
+[       297] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       297] Sending heartbeat to live-internal.fivem.net:30110
+[       312] Started resource fivem-map-skater
+[       312] Started map fivem-map-skater
+[     28203] Connecting: Deezguns
+[     28812] Sending heartbeat to live-internal.fivem.net:30110
+[    194953] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[         0] Hello!
+[        63] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[        63]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[        63]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00042] in <b3642c6ba1504116b31d83a71003b504>:0 
+[        63] Found new resource cruisecontrol in D:/Git\gtavservergit/resources//cruisecontrol
+[        78] Found new resource custompeds in D:/Git\gtavservergit/resources//custompeds
+[        78] Found new resource customvehicles in D:/Git\gtavservergit/resources//customvehicles
+[        78] Found new resource fivem in D:/Git\gtavservergit/resources//fivem
+[        94] Found new resource fivem-awesome1501 in D:/Git\gtavservergit/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in D:/Git\gtavservergit/resources//fivem-map-hipster
+[       110] Found new resource fivem-map-skater in D:/Git\gtavservergit/resources//fivem-map-skater
+[       110] Found new resource race in D:/Git\gtavservergit/resources//[gamemodes]/race
+[       110] Found new resource race-test in D:/Git\gtavservergit/resources//[gamemodes]/race-test
+[       110] Found new resource channelfeed in D:/Git\gtavservergit/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in D:/Git\gtavservergit/resources//[gameplay]/irc
+[       125] Found new resource obituary in D:/Git\gtavservergit/resources//[gameplay]/obituary
+[       125] Found new resource obituary-deaths in D:/Git\gtavservergit/resources//[gameplay]/obituary-deaths
+[       125] Found new resource mapmanager in D:/Git\gtavservergit/resources//[managers]/mapmanager
+[       141] Found new resource baseevents in D:/Git\gtavservergit/resources//[system]/baseevents
+[       141] Found new resource chat in D:/Git\gtavservergit/resources//[system]/chat
+[       141] Found new resource hardcap in D:/Git\gtavservergit/resources//[system]/hardcap
+[       157] Found new resource rconlog in D:/Git\gtavservergit/resources//[system]/rconlog
+[       157] Found new resource scoreboard in D:/Git\gtavservergit/resources//[system]/scoreboard
+[       157] Found new resource sessionmanager in D:/Git\gtavservergit/resources//[system]/sessionmanager
+[       157] Found new resource spawnmanager in D:/Git\gtavservergit/resources//[system]/spawnmanager
+[       172] Found new resource betaguns in D:/Git\gtavservergit/resources//[test]/betaguns
+[       172] Found new resource gameInit in D:/Git\gtavservergit/resources//[test]/gameInit
+[       172] Found new resource keks in D:/Git\gtavservergit/resources//[test]/keks
+[       188] Started resource sessionmanager
+[       203] Started resource mapmanager
+[       203] Started resource chat
+[       219] Started resource spawnmanager
+[       219] Started resource fivem
+[       219] Started gametype Freeroam
+[       235] Started resource hardcap
+[       235] Started resource rconlog
+[       266] Started resource cruisecontrol
+[       328] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       344] Sending heartbeat to live-internal.fivem.net:30110
+[       344] Started resource fivem-map-skater
+[       344] Started map fivem-map-skater
+[     28844] Connecting: Deezguns
+[     29578] Sending heartbeat to live-internal.fivem.net:30110
+[    209594] Sending heartbeat to live-internal.fivem.net:30110
+[    359688] Sending heartbeat to live-internal.fivem.net:30110
+[    539688] Sending heartbeat to live-internal.fivem.net:30110
+[    719750] Sending heartbeat to live-internal.fivem.net:30110
+[    899797] Sending heartbeat to live-internal.fivem.net:30110
+[    900157] hitch warning: frame time of 363 milliseconds
+[   1080172] Sending heartbeat to live-internal.fivem.net:30110
